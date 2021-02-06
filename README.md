@@ -14,8 +14,10 @@ To perform this analysis, we sorted the data based on the parent category: theat
 From the theater outcomes based on launch date data, it is identified that plays have very few cancellations based on launch date. The most successful launch month is May; In May there are greater number of successful plays compared to other months, while the failed and canceled plays have little fluctuation. 
 
 ### Analysis of Outcomes Based on Goals
-Generally speaking, the great the goal, the less likely for success of the play. The goal amount had little to no effect on cancelled plays. 
+Generally speaking, the great the goal, the less likely for success. The goal amount had little to no effect on cancelled plays. Goals less than $15000 had more than 50% or more likelyhood of success.
+
 ### Challenges and Difficulties Encountered
+Outcomes based on goals can be misleading due to the breakdown of theatre production by percentages. It would be more meaningful to also include the raw numer of plays produced in any given goal category. For example, goal between $45000 to $50000 had one failed production resulting in 100% failure.
 
 ## Results
 
